@@ -1,0 +1,14 @@
+E:\CSharpPractice\Day2Training\Day2Assigments\ListDemo\bin\Debug\net10.0\ListDemo.exe
+E:\CSharpPractice\Day2Training\Day2Assigments\ListDemo\bin\Debug\net10.0\ListDemo.deps.json
+E:\CSharpPractice\Day2Training\Day2Assigments\ListDemo\bin\Debug\net10.0\ListDemo.runtimeconfig.json
+E:\CSharpPractice\Day2Training\Day2Assigments\ListDemo\bin\Debug\net10.0\ListDemo.dll
+E:\CSharpPractice\Day2Training\Day2Assigments\ListDemo\bin\Debug\net10.0\ListDemo.pdb
+E:\CSharpPractice\Day2Training\Day2Assigments\ListDemo\obj\Debug\net10.0\ListDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharpPractice\Day2Training\Day2Assigments\ListDemo\obj\Debug\net10.0\ListDemo.AssemblyInfoInputs.cache
+E:\CSharpPractice\Day2Training\Day2Assigments\ListDemo\obj\Debug\net10.0\ListDemo.AssemblyInfo.cs
+E:\CSharpPractice\Day2Training\Day2Assigments\ListDemo\obj\Debug\net10.0\ListDemo.csproj.CoreCompileInputs.cache
+E:\CSharpPractice\Day2Training\Day2Assigments\ListDemo\obj\Debug\net10.0\ListDemo.dll
+E:\CSharpPractice\Day2Training\Day2Assigments\ListDemo\obj\Debug\net10.0\refint\ListDemo.dll
+E:\CSharpPractice\Day2Training\Day2Assigments\ListDemo\obj\Debug\net10.0\ListDemo.pdb
+E:\CSharpPractice\Day2Training\Day2Assigments\ListDemo\obj\Debug\net10.0\ListDemo.genruntimeconfig.cache
+E:\CSharpPractice\Day2Training\Day2Assigments\ListDemo\obj\Debug\net10.0\ref\ListDemo.dll
